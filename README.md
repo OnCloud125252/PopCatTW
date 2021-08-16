@@ -15,7 +15,8 @@
 4. 在下方的 Console 中，貼上 [Popcat.tw](#Popcattw-1) 的內容 [蛤? 我看不懂前面在說啥 . . .](#如何打開Console "如何打開 Console ?")
 6. 按下 Enter 後，完成 ~
     * **_感謝你幫台灣出一份心力 \~_**
-    * 這時，你可以去做別的事情，喝杯茶，寫寫作業，看個 YouTube 或滑一下 IG <!-- 如果都不想，打個手槍也行 --> ( 如果你看得到後面打什麼，記得幫我一下 <!-- 加 Discord 拜託 https://discord.gg/NzeAnxuRJn --> ฅ ^• ω •^ ฅ )
+    * 這時，你可以去做別的事情，喝杯茶，寫寫作業，看個 YouTube 或滑一下 IG
+    * <!-- 如果都不想，打個手槍也行 --> ( 如果你看得到我這裡打什麼，拜託幫我一下 <!-- 加 Discord 拜託 https://discord.gg/NzeAnxuRJn --> ฅ ^• ω •^ ฅ )
 
 
 # Popcat.tw
@@ -84,8 +85,19 @@ setInterval(function(){
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Safari 的用戶
+### Safari 的用戶 : (
 
-啊我剛剛就說過 _不要用 Safari_ 了齁，再不聽話阿
+啊我剛剛就說過 _不要用 Safari_ 了齁，再不聽話阿 . . .
 
 連結給你，自己選要用哪個
+   * [Google Chrome](https://www.google.com/chrome)
+      * 如果你*很懶*，我直接給你檔案
+      * [我*超懶*](https://cdn.discordapp.com/attachments/805273033438134332/876910847941804103/MicrosoftEdgeSetup.exe "有彩蛋喔 ~")
+         * 呵，*很懶* 的人是要付出代價的
+   * [Microsoft Edge](https://www.microsoft.com/edge?r=1)
+      * 如果你*超懶* ，我直接給你檔案
+      * [我*很懶*](https://cdn.discordapp.com/attachments/805273033438134332/876910841881059368/ChromeSetup.exe "有彩蛋喔 ~")
+         * 呵，*超懶* 的人是要付出代價的
+# P.S.
+
+如果看完這篇文章，你還是發現不會操作，那麼，請參考[這篇文章](https://www.ylib.com/hotsale/brain/)，或是[這篇文章](https://www.books.com.tw/products/0010492712)，裡面都有很詳細的介紹喔 ~

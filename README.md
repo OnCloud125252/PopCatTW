@@ -8,7 +8,7 @@
 # 怎麼做?
 
 1. 複製 [Popcat.tw](#Popcattw-1) 的內容  ( 秘訣:點擊右上角的 ![copy](https://cdn.discordapp.com/attachments/805273033438134332/876873423769452645/Screenshot_2021-08-17_010044.png) 直接複製 ! )
-2. 打開 Popcat 網站  (建議使用 Chrome 瀏覽器，不推薦使用 Safari )
+2. 打開 Popcat 網站  ( *建議使用 Chrome 瀏覽器，不推薦使用 Safari* )
     * **_強烈建議_**  打開網頁之後對著該分頁按下右鍵，並選擇 "[**關閉網站音訊(Chrome)** 或 **將索引標籤頁靜音(Edge)**](https://www.kocpc.com.tw/archives/197335 "如何快速讓電腦上的四大瀏覽器分頁靜音？ |  電腦王阿達")"
     * [Popcat 網站](https://popcat.click)
 3. 按下鍵盤上的 `F12` 或 `Control(Ctrl)+Shift+i`  ( Mac 用戶請按下鍵盤上的 `Cmmand+Option+i` )
@@ -89,13 +89,19 @@ setInterval(function(){
 
 啊我剛剛就說過 _不要用 Safari_ 了齁，再不聽話阿 . . .
 
-連結給你，自己選要用哪個
+***我有證據 ! ! !***
+
+![lol](https://cdn.discordapp.com/attachments/805273033438134332/876919448676753428/lol.png)
+
+哀 . . .
+
+瀏覽器下載連結給你，自己選要用哪個
    * [Google Chrome](https://www.google.com/chrome)
-      * 如果你*很懶*，我直接給你檔案
+      * 如果你*很懶*，我直接給你檔案，點了可以直接下載
       * [我*超懶*](https://cdn.discordapp.com/attachments/805273033438134332/876910847941804103/MicrosoftEdgeSetup.exe "有彩蛋喔 ~")
          * 呵，*很懶* 的人是要付出代價的
    * [Microsoft Edge](https://www.microsoft.com/edge?r=1)
-      * 如果你*超懶* ，我直接給你檔案
+      * 如果你*超懶* ，我直接給你檔案，點了可以直接下載
       * [我*很懶*](https://cdn.discordapp.com/attachments/805273033438134332/876910841881059368/ChromeSetup.exe "有彩蛋喔 ~")
          * 呵，*超懶* 的人是要付出代價的
 

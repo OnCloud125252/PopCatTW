@@ -69,5 +69,11 @@ setInterval(function(){
 
 
 # 如何打開Console?
-https://cdn.discordapp.com/attachments/805273033438134332/876897555412303922/Edge.png
-https://cdn.discordapp.com/attachments/805273033438134332/876897558650306590/Chrome.png
+### Google Chrome 的用戶，看這裡 ~
+![chrome](https://cdn.discordapp.com/attachments/805273033438134332/876897558650306590/Chrome.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Microsoft Edge 的用戶，看這裡 ~
+![edge](https://cdn.discordapp.com/attachments/805273033438134332/876897555412303922/Edge.png)
+

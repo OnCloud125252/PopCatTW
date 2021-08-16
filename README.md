@@ -12,7 +12,7 @@
     * **_強烈建議_**  打開網頁之後對著該分頁按下右鍵，並選擇 "[**關閉網站音訊(Chrome)** 或 **將索引標籤頁靜音(Edge)**](https://www.kocpc.com.tw/archives/197335 "如何快速讓電腦上的四大瀏覽器分頁靜音？ |  電腦王阿達")"
     * [Popcat 網站](https://popcat.click)
 3. 按下鍵盤上的 `F12` 或 `Control(Ctrl)+Shift+i`  ( Mac 用戶請按下鍵盤上的 `Cmmand+Option+i` )
-4. 在下方的 Console 中，貼上 [Popcat.tw](#Popcattw-1) 的內容 [蛤? 我看不懂前面在說啥 . . .](#如何打開Console "如何打開 Console ?")
+4. 在下方的 Console 中，貼上 [Popcat.tw](#Popcattw-1) 的內容 ( [蛤? 我看不懂前面在說啥 . . .](#如何打開Console "如何打開 Console ?") )
 6. 按下 Enter 後，完成 ~
     * **_感謝你幫台灣出一份心力 \~_**
     * 這時，你可以去做別的事情，喝杯茶，寫寫作業，看個 YouTube 或滑一下 IG

@@ -1,4 +1,4 @@
- (()=>{    
+(()=>{    
     console.clear()
 
     var event = new KeyboardEvent('keydown', {

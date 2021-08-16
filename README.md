@@ -6,7 +6,7 @@
 
 
 # 怎麼做?
-1. 複製 [Popcat.tw](#opcattw-1) 的內容  ( 秘訣:點擊右上角的 ![copy](https://cdn.discordapp.com/attachments/805273033438134332/876873423769452645/Screenshot_2021-08-17_010044.png) 直接複製 ! )
+1. 複製 [Popcat.tw](#Ppcattw-1) 的內容  ( 秘訣:點擊右上角的 ![copy](https://cdn.discordapp.com/attachments/805273033438134332/876873423769452645/Screenshot_2021-08-17_010044.png) 直接複製 ! )
 2. 打開 Popcat 網站  (建議使用 Chrome 瀏覽器，不推薦使用 Safari )
     * **_強烈建議_**  打開網頁之後對著該分頁按下右鍵，並選擇 "[**關閉網站音訊(Chrome)** 或 **將索引標籤頁靜音(Edge)**](https://www.kocpc.com.tw/archives/197335 "如何快速讓電腦上的四大瀏覽器分頁靜音？ |  電腦王阿達")"
     * [Popcat 網站](https://popcat.click)

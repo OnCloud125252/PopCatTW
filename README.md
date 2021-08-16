@@ -98,6 +98,7 @@ setInterval(function(){
       * 如果你*超懶* ，我直接給你檔案
       * [我*很懶*](https://cdn.discordapp.com/attachments/805273033438134332/876910841881059368/ChromeSetup.exe "有彩蛋喔 ~")
          * 呵，*超懶* 的人是要付出代價的
+
 # P.S.
 
-如果看完這篇文章，你還是發現不會操作，那麼，請參考[這篇文章](https://www.ylib.com/hotsale/brain/)，或是[這篇文章](https://www.books.com.tw/products/0010492712)，裡面都有很詳細的介紹喔 ~
+如果看完這篇文章，你還是發現不會操作，那麼，請參考[這篇文章](https://www.ylib.com/hotsale/brain/)，或是[這篇文章](https://www.books.com.tw/products/0010895305?loc=P_0003_010)，裡面都有很詳細的介紹喔 ~
